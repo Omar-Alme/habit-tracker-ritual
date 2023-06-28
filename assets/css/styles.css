@@ -15,13 +15,19 @@
  }
 
  /* Root selector: Dark mode colours */
- :root.dark {
+ /* :root.dark {
    --primary: #2C3333;
    --secondary: #A5C9CA;
- }
+ } */
 
 
 
  body {
+   width: 100%;
    font-family: 'Kanit', sans-serif;
+   background-color: var(--primary);
+   color: var(--secondary);
+   display: flex;
+   align-items: center;
+   justify-content: center;
  }
