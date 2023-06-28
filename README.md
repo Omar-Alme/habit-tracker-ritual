@@ -1,39 +1,80 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Rituals text/logo](documentations/Marketme.png "Rituals logo")
 
-Welcome,
+# Rituals : Realign Your Life
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+Rituals
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+This website can be accessed by this [link]()
 
-## Codeanywhere Reminders
+![Preview all screens](documentations/)
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+Here is a link to preview the website on all screens [Responsive Preview]()
 
-`python3 -m http.server`
+## User Stories
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Visior goals:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+- As a first time visitor, 
+- As a first time visitor, 
+- As a first time visitor, 
+- As a first time visiot, 
 
-`http_server`
+- As a returning Visitor, 
+- As a returning visitor, 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Features
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Design
 
-To log into the Heroku toolbelt CLI:
+### Color Scheme
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### Typography
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Wireframes
 
----
 
-Happy coding!
+## Technologies Used
+
+
+## Testing
+
+
+## Manual Testing
+
+### Bugs
+
+
+## Validator testing
++ ### HTML
++ ### CSS
+
++ ### JS
+
++ ### Accessibility and performance 
+#### Lighthouse
+
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the [GitHub repository](https://github.com/Omar-Alme/habit-tracker-ritual), navigate to the Settings tab
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://github.com/Omar-Alme/habit-tracker-ritual)
+
+## Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+-      git clone https://github.com/Omar-Alme/habit-tracker-ritual
+
+## Credits
+
+- #### Content
+
+- #### Media
+
+
+## Acknowledgements
