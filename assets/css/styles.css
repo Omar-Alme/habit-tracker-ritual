@@ -7,6 +7,21 @@
    box-sizing: border-box;
  } */
 
+
+ /* Root selector: Light mode colours */
+ :root {
+   --primary: #E7F6F2;
+   --secondary: #395B64;
+ }
+
+ /* Root selector: Dark mode colours */
+ :root.dark {
+   --primary: #2C3333;
+   --secondary: #A5C9CA;
+ }
+
+
+
  body {
    font-family: 'Kanit', sans-serif;
  }
