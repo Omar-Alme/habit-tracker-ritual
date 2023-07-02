@@ -132,3 +132,12 @@
    flex: 50%;
    padding: 1rem;
  }
+
+ .ritual-btn {
+   height: 5rem;
+   width: 5rem;
+   background-color: var(--primary);
+   border: 8px solid var(--secondary);
+   border-radius: 50%;
+   color: var(--secondary);
+ }
