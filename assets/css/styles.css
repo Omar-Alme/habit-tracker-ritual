@@ -43,9 +43,40 @@
  /* Light/Dark Mode Section */
 
  .lightDark-container {
-   width: 100%;
+   /* width: 100%; */
    display: flex;
    align-items: center;
    justify-content: center;
    padding: 1.5rem;
  }
+
+ .lightDark {
+   display: flex;
+   justify-content: space-between;
+   width: 65px;
+   height: 25px;
+   background-color: var(--primary);
+   box-shadow: 2px 2px 3px #325044,
+     -2px -2px 3px #99b2a8;
+   border-radius: 50px;
+   position: relative;
+   display: block;
+   cursor: pointer;
+ }
+
+ .lightDark i {
+   width: 47%;
+   line-height: 26px;
+   text-align: center;
+ }
+
+ /* .lightDark::before {
+   content: '';
+   width: 20px;
+   height: 20px;
+   background-color: var(--primary);
+   position: absolute;
+   top: 2.4px;
+   left: 3px;
+   border-radius: 50%;
+ } */
