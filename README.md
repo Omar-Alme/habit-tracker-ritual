@@ -37,6 +37,12 @@ Here is a link to preview the website on all screens [Responsive Preview]()
 
 ### Wireframes
 
+#### Light Mode
+![Wireframe light mode](documentations/rituals-light-mode.png)
+
+#### Dark Mode
+![Wireframe dark mode](documentations/rituals-dark-mode.png)
+
 
 ## Technologies Used
 
