@@ -14,12 +14,13 @@ Here is a link to preview the website on all screens [Responsive Preview]()
 
 ### Visior goals:
 
-- As a visitor, 
-- As a visitor, 
-- As a visitor, 
-- As a visitor, 
-- As a visitor, 
-- As a visitor, 
+- As a visitor, I want to know main goal of the site, so I can know how to function it.
+- As a visitor, I want to be able to change the theme of the site, so I can adjust it to the time of the day for better vision.
+- As a visitor, I want to simply add rituals, so I can track them.
+- As a visitor, I want to simply name the rituals so I know what I'm tracking
+- As a visitor, I want to be able to track the completed rituals, so i can see what rituals i completed and what i need to complete
+- As a visitor, I want to be able to remove rituals, incase i added one accidently.
+-  
 
 ## Features
 
