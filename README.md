@@ -83,8 +83,15 @@ In your IDE Terminal, type the following command to clone my repository:
 ## Credits
 
 - #### Content
-
+  - https://stackoverflow.com/questions/45037844/arrange-2-items-per-row-using-flexbox
+  - https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
+  - https://www.youtube.com/watch?v=TyITCYwsWHs
+  - https://www.youtube.com/watch?v=gzCUq_VQ7Y8&t=176s
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/::after
+  - 
 - #### Media
 
 
 ## Acknowledgements
+
+- I would like to acknowledge Chris Pennington for the design idea for the website. 
