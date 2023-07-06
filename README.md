@@ -28,7 +28,12 @@ Here is a link to preview the website on all screens [Responsive Preview]()
 
 ### Color Scheme
 
+![Color Pallete](documentations/color-pallete.png)
+![Color numbers](documentations/colors.png)
+
 ### Typography
+
+![Google font](documentations/googlefont.png)
 
 ### Wireframes
 
