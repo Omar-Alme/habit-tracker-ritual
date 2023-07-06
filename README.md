@@ -4,7 +4,7 @@
 
 Rituals
 
-This website can be accessed by this [link]()
+This website can be accessed by this [link](https://omar-alme.github.io/habit-tracker-ritual/)
 
 ![Preview all screens](documentations/)
 
@@ -14,13 +14,12 @@ Here is a link to preview the website on all screens [Responsive Preview]()
 
 ### Visior goals:
 
-- As a first time visitor, 
-- As a first time visitor, 
-- As a first time visitor, 
-- As a first time visiot, 
-
-- As a returning Visitor, 
-- As a returning visitor, 
+- As a visitor, 
+- As a visitor, 
+- As a visitor, 
+- As a visitor, 
+- As a visitor, 
+- As a visitor, 
 
 ## Features
 
@@ -61,7 +60,7 @@ Here is a link to preview the website on all screens [Responsive Preview]()
   - From the source section drop-down menu, select the **Main** Branch, then click "Save".
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://github.com/Omar-Alme/habit-tracker-ritual)
+The live link can be found [here](https://omar-alme.github.io/habit-tracker-ritual/)
 
 ## Local Deployment
 
